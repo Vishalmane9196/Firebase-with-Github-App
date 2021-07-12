@@ -1,4 +1,4 @@
-Build an App ehich can get user info show on website with specific info when username given to it
+Build an App Which can get user info show on website with specific info when username given to it
 for building this app React, JSX, boostrap is used and for authentication firebase is used 
 # Getting Started with Create React App
 
