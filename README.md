@@ -1,3 +1,5 @@
+Build an App ehich can get user info show on website with specific info when username given to it
+for building this app React, JSX, boostrap is used and for authentication firebase is used 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
